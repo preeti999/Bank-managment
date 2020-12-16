@@ -1,3 +1,3 @@
 # Bank-managment
 
-The system provides the access to the customer to create an account first, after creating account the have access to deposite/withdraw/and view our account.
+This project provides access to the customer to create an account, after creating account user can access other features like deposit money/withdraw money/ and view account details
